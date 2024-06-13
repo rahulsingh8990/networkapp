@@ -8,5 +8,8 @@ and comes with a very minimal shell for building an app.
 To run the provided example, you can use `npm start` command.
 
 ```bash
-npm start
+npm run build
+npm cap sync
 ```
+
+open project on simulator/device
