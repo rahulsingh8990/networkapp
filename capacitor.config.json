@@ -1,0 +1,10 @@
+{
+  "appId": "com.network.com",
+  "appName": "network-sample",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
